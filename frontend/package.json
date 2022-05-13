@@ -40,6 +40,6 @@
     "concurrently": "^3.5.1",
     "cross-env": "^5.2.0",
     "lerna": "3.18.3",
-    "node-sass": "^6.0.1"
+    "node-sass": "^7.0.0"
   }
 }
